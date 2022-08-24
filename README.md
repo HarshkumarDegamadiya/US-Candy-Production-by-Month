@@ -1,0 +1,3 @@
+# US-Candy-Production-by-Month
+The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories. This dataset tracks industrial production every month from January 1972 to August 2017.
+Halloween begins frenetic candy consumption that continues into the Christmas holidays and New Year’s Day, when people often make (usually short-lived) resolutions to lose weight. But all this consumption first needs production. The graph shows the relevant data from the industrial production index and its stunning seasonality
